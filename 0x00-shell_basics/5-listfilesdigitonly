@@ -1,2 +1,2 @@
-ls -na
 #!/bin/bash
+cd ~
